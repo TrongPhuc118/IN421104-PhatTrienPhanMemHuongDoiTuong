@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="src/SoTayNongNghiep.Console/SoTayNongNghiep.Console.csproj" />
     <Project Path="src/SoTayNongNghiep.Domain/SoTayNongNghiep.Domain.csproj" />
   </Folder>
 </Solution>
